@@ -1,6 +1,8 @@
-site_name: My Course Portal
 theme:
   name: 'material'
+
+site_name: Curso Kubernetes
+
 nav:
 - Readme: README.md
 - Modulo1:
