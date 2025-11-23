@@ -3,17 +3,12 @@ theme:
   name: 'material'
 nav:
 - Readme: README.md
-- Modulo1:
-  - Arquitectura: modulo1/arquitectura.md
-  - Docker: modulo1/docker.md
-  - Implantacion Aplic Web: modulo1/implantacion-aplic-web.md
-  - Orquestadores: modulo1/orquestadores.md
-  - Proyecto Kubernetes: modulo1/proyecto-kubernetes.md
-- Modulo10:
-  - Actividad1: modulo10/actividad1.md
-  - Ejemplo: modulo10/ejemplo.md
-  - Helm: modulo10/helm.md
-  - Instalacion: modulo10/instalacion.md
+- Modulo01:
+  - Arquitectura: modulo01/arquitectura.md
+  - Docker: modulo01/docker.md
+  - Implantacion Aplic Web: modulo01/implantacion-aplic-web.md
+  - Orquestadores: modulo01/orquestadores.md
+  - Proyecto Kubernetes: modulo01/proyecto-kubernetes.md
 - Modulo2:
   - Actividad1: modulo2/actividad1.md
   - Alternativas: modulo2/alternativas.md
@@ -77,5 +72,10 @@ nav:
   - Jobs: modulo9/jobs.md
   - Otras Cargas: modulo9/otras_cargas.md
   - Statefulsets: modulo9/statefulsets.md
+- Modulo10:
+  - Actividad1: modulo10/actividad1.md
+  - Ejemplo: modulo10/ejemplo.md
+  - Helm: modulo10/helm.md
+  - Instalacion: modulo10/instalacion.md  
 theme:
   name: material
