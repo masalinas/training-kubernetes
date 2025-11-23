@@ -40,7 +40,7 @@ nav:
   - Actividad2: modulo5/actividad2.md
   - Actividad3: modulo5/actividad3.md  
 - Modulo6:
-  - Services: modulo6/services.md<
+  - Services: modulo6/services.md
   - Describiendo Services: modulo6/describiendo_services.md
   - Gestionando Services: modulo6/gestionando_services.md  
   - Dns: modulo6/dns.md
@@ -68,10 +68,10 @@ nav:
   - Actividad2: modulo8/actividad2.md
   - Actividad3: modulo8/actividad3.md  
 - Modulo9:
-  - Daemonsets: modulo9/daemonsets.md
+  - Otras Cargas: modulo9/otras_cargas.md
   - Statefulsets: modulo9/statefulsets.md    
   - Ejemplo2: modulo9/ejemplo2.md
-  - Otras Cargas: modulo9/otras_cargas.md
+  - Daemonsets: modulo9/daemonsets.md  
   - Jobs: modulo9/jobs.md  
   - Actividad1: modulo9/actividad1.md  
 - Modulo10:
