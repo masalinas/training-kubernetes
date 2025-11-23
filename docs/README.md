@@ -228,11 +228,7 @@ otra cuestión.
 
 ## Licencia
 
-Materiales desarrollados por Alberto Molina Coballes y José Domingo
-Muñoz Rodríguez para el curso "Introducción a Kubernetes"
-organizado por la [Consejería de Educación y Deporte de la Junta de
-Andalucía](https://www.juntadeandalucia.es/educacion/portals/web/ced)
-y dirigido a profesorado de secundaria de Andalucía.
+Materiales desarrollado para el curso "Introducción a Kubernetes"
 
 Toda la documentación es libre y puede compartirse y modificarse bajo
 las limitaciones de la licencia Creative Commons
