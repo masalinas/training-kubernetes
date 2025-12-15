@@ -39,19 +39,19 @@ aprenderemos paso a paso cómo se interactúa con ellos y cómo se
 definen, pero a modo de resumen, podemos enumerar sus principales
 funciones en la siguiente lista:
 
-- Pods: ejecutan los contenedores
-- ReplicaSets:
-  - Se encargan de que no haya caída del servicio
-  - Gestionan la tolerancia a fallos
-  - Proporcionan escalabilidad dinámica
-- Deployments:
-  - Gestionan las actualizaciones continuas
-  - Realizan despliegues automáticos
-- Services:
-  - Gestionan el acceso a los pods
-  - Balancean la carga entre los Pods disponibles
-- Ingress:
-  - Gestionan el acceso desde el exterior a través de nombre
+1. Pods: ejecutan los contenedores
+2. ReplicaSets:
+    - Se encargan de que no haya caída del servicio
+    - Gestionan la tolerancia a fallos
+    - Proporcionan escalabilidad dinámica
+3. Deployments:
+    - Gestionan las actualizaciones continuas
+    - Realizan despliegues automáticos
+4. Services:
+    - Gestionan el acceso a los pods
+    - Balancean la carga entre los Pods disponibles
+5 Ingress:
+    - Gestionan el acceso desde el exterior a través de nombre
 
 ## Vídeo
 
