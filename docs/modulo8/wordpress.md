@@ -13,7 +13,7 @@ Para este ejercicio utilizaremos asignación dinámica de volúmenes.
 
 Como hemos comentado vamos a usar la asignación dinámica de volúmenes, por lo tanto tendremos que crear dos objetos PersistentVolumenClaim para solicitar los dos volúmenes.
 
-Para solicitar el volumen para la aplicación Wordpress usaremos el fichero [`wordpress-pvc.yaml`](files/wordpress/wordpress-pvc.yaml):
+Para solicitar el volumen para la aplicación Wordpress usaremos el fichero [`wordpress-pvc.yaml`](./files/wordpress/wordpress-pvc.yaml):
 
 ```yaml
 apiVersion: v1
@@ -28,7 +28,7 @@ spec:
       storage: 5Gi
 ```
 
-Y para solicitar el volumen para la base de datos usaremos un fichero similar: [`mariadb-pvc.yaml`](files/mariadb/wordpress-pvc.yaml):
+Y para solicitar el volumen para la base de datos usaremos un fichero similar: [`mariadb-pvc.yaml`](./files/wordpress/wordpress-pvc.yaml):
 
 ```yaml
 apiVersion: v1
